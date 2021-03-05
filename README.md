@@ -89,6 +89,8 @@ Attach the +5V, Ground, and Video In wires to the amplifer circuit.  Attach a le
 
 ![](images/Amp-Perfboard.png?raw=true)
 
+Note:  I was out of 75R resistors, so I used two 150R in parallel.
+
 ## Step 9: Run the cables 
 
 Drill a hole in the RF shield near the expansion port and run the wires as shown.  Add a rubber grommet to protect the wires from the sharp edges of the sheet metal.
