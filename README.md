@@ -19,7 +19,7 @@ Disassemble the Atari 5200 and remove the motherboard from the case.  Be particu
 ## Step 2: 
 Remove the coax cable, the 4700 uF capacitor, and the inductor as shown.  If you're also planning to perform the composite A/V mod, remove the RF modulator while you have the desoldering iron warmed up.
 
-[](images/removals.png?raw=true)
+![](images/removals.png?raw=true)
 ![remove_coax.png](images/remove_coax.png?raw=true "remove_coax.png")
 
 ## Step 3:
@@ -98,4 +98,7 @@ Install the chassis mount RCA jacks in the expansion port cover, and then solder
 
 
 ## Step 10:  Play some Dig Dug!
+
+![Plate_Wired.jpg](images/Plate_Wired.jpg?raw=true "Plate_Wired.jpg")
+
 
