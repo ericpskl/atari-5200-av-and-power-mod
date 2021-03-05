@@ -24,21 +24,22 @@ Remove the coax cable, the 4700 uF capacitor, and the inductor as shown.  If you
 
 ## Step 3:
 
-Attach the replacement 470 uF electrolytic capacitor to the same spot where the 4700 \muF was connected.  Attach power leads to the spare connectors as shown.  Make sure the power leads are long enough to comfortably reach out of the back of the case through the expansion port door.
+Attach the replacement 470 uF electrolytic capacitor to the same spot where the 4700 uF was connected.  Solder power leads in parallel with the capacitor as shown.  Make sure the power leads are long enough to comfortably reach out of the back of the case through the expansion port door.
 
 ![Connect-Power.png](images/Connect-Power.png?raw=true "Connect-Power.png")
 
-If you are only performing the power mod, skip to step whatever. 
+If you are only performing the power mod, skip to step 8.
 
 ## Step 4: The AV Composite Out Mod
 
-Commponents Needed:
+Gather the commponents needed:
 
 - 75R, 3K3, and two 2K2 resistors
 - 2N3904 Transistor
 - Perfboard 
 - Chassis mount RCA jacks, qty 2. 
-- Heat shrink tubing, rubber grommets, soldering/desoldering equipment, various lengths of wire, etc. 
+- Heat shrink tubing, rubber grommets, soldering/desoldering equipment, various lengths of wire, etc.
+- Hot glue or double stick tape  
 
 ## Step 5 
 Remove R33 or simply lift one side and insulate with heat shrink tubing. 
@@ -84,21 +85,29 @@ Build the transistor amplifier onto perfboard as shown.
 
 ## Step 8: Attach Input and Output Leads 
 
-Attach the +5V, Ground, and Video In wires to the amplifer circuit.  Attach a lead to the emitter of the transistor as shown for video out, and a second lead to the ground point on the amplifier circuit to ground the A/V out jacks.  These leads should be long enough so they can comfortably reach the expansion port.   Drill a hole in the RF shield near the expansion port and run the wires as shown.  Add a rubber grommet to protect the wires from the sharp edges of the sheet metal.
+Attach the +5V, Ground, and Video In wires to the amplifer circuit.  Attach a lead to the emitter of the transistor as shown for video out, and a second lead to the ground point on the amplifier circuit to ground the A/V out jacks.  These leads should be long enough so they can comfortably reach the expansion port. Attach the amplifier board to the motherboard in the former location of the RF modulator using hot glue, double stick tape, or another insulating adhesive. 
+
+![](images/Amp-Perfboard.png?raw=true)
+
+## Step 9: Run the cables 
+
+Drill a hole in the RF shield near the expansion port and run the wires as shown.  Add a rubber grommet to protect the wires from the sharp edges of the sheet metal.
 
 ![Cable-Management-01.png](images/Cable-Management-01.png?raw=true "Cable-Management-01.png")
 
 Attach the chassis mount barrel jack to the expansion port cover plate and solder the wires.  The original Atari 5200 power supply is positive center, so solder the power leads accordingly. 
 
-## Step 9: Connect the jacks and install the cover plate 
+## Step 10: Connect the jacks and install the cover plate 
 
-Install the chassis mount RCA jacks in the expansion port cover, and then solder the audio, video, and ground leads to the jacks.   Remove and store the original expansion port cover, then snap the new expansion port cover into the opening.  Depending on the tolerances of your 3D printer, you may want to secure the cover in place with a few dabs of hot glue to prevent it snapping out of place when cables are inserted and removed into the AV and power jacks.
-
-![Plate_Wired.jpg](images/Plate_Wired.jpg?raw=true "Plate_Wired.jpg")
-
-
-## Step 10:  Play some Dig Dug!
+Install the chassis mount RCA jacks in the expansion port cover, and then solder the audio, video, and ground leads to the jacks. Remove and store the original expansion port cover, then snap the new expansion port cover into the opening.  Depending on the tolerances of your 3D printer, you may want to secure the cover in place with a few squirts of hot glue to prevent it snapping out of place when cables are inserted and removed into the AV and power jacks.
 
 ![Plate_Wired.jpg](images/Plate_Wired.jpg?raw=true "Plate_Wired.jpg")
 
+## Step 10:  Reassemble 
+
+Reassemble the console, being careful to not damage the audio wire when the RF shield is reinstalled.  
+
+## Step 11:  Enjoy
+
+Enjoy playing Dig Dug, marveling at your crystal-clear video!
 
