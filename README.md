@@ -28,7 +28,7 @@ Attach the replacement 470 uF electrolytic capacitor to the same spot where the 
 
 ![Connect-Power.png](images/Connect-Power.png?raw=true "Connect-Power.png")
 
-If you are only performing the power mod, skip to step 8.
+If you are only performing the power mod, skip to step 9.
 
 ## Step 4: The AV Composite Out Mod
 
