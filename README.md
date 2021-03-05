@@ -1,5 +1,5 @@
 # Atari 5200 AV and Power Mod
-Composite Out and Power Supply Modification Instructions for the Atari 5200 4-Port Game Console
+This repo contains instructions for performing composite A/V out and power supply modification to a first-generation (1982, 4-Port) Atari 5200 game console.
 
 # This is a work in progress, please check back soon!
 
