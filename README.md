@@ -19,7 +19,7 @@ Disassemble the Atari 5200 and remove the motherboard from the case.  Be particu
 ## Step 2: 
 Remove the coax cable, the 4700 uF capacitor, and the inductor as shown.  If you're also planning to perform the composite A/V mod, remove the RF modulator while you have the desoldering iron warmed up.
 
-<img src=images/removals.png?raw=true width=400>
+[](images/removals.png?raw=true)
 ![remove_coax.png](images/remove_coax.png?raw=true "remove_coax.png")
 
 ## Step 3:
