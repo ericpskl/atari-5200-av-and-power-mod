@@ -102,7 +102,7 @@ Attach the chassis mount barrel jack to the expansion port cover plate and solde
 Install the chassis mount RCA jacks in the expansion port cover, and then solder the audio, video, and ground leads to the jacks. Remove and store the original expansion port cover, then snap the new expansion port cover into the opening.  Depending on the tolerances of your 3D printer, you may want to secure the cover in place with a few squirts of hot glue to prevent it snapping out of place when cables are inserted and removed into the AV and power jacks.
 
 ![Plate_Wired.jpg](images/Plate_Wired.jpg?raw=true "Plate_Wired.jpg")
-![](images/Expansion-Port-Cover-01?raw=true)
+![](images/Expansion-Port-Cover-01.png?raw=true)
 
 ## Step 10:  Reassemble 
 
