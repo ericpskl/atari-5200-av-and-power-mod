@@ -1,8 +1,6 @@
 # Atari 5200 AV and Power Mod
 This repo contains instructions for performing composite A/V out and power supply modification to a first-generation (1982, 4-Port) Atari 5200 game console.
 
-# This is a work in progress, please check back soon!
-
 ## Power Modification
 
 The original 4-Port Atari 5200, released in 1982, draws its power from an adapter connected at the far end of a long and bulky coaxial cable. This site contains instructions on how to replace this cumbersome arrangement with a simple barrel jack on the back of the console.
@@ -14,7 +12,7 @@ Components Needed:
 - Heat shrink tubing, rubber grommets, soldering/desoldering equipment, various lengths of wire, etc. 
 
 ## Step 1:
-Disassemble the Atari 5200 and remove the motherboard from the case.  Be particularly careful when handling the smoked acrylic pieces, as they are ridiculously fragile and easy to break or scratch.
+Disassemble the Atari 5200 and remove the motherboard from the case, and remove the RF shield from the motherboard. Be particularly careful when handling the smoked acrylic pieces, as they are ridiculously fragile and easy to break or scratch.
 
 ## Step 2: 
 Remove the coax cable, the 4700 uF capacitor, and the inductor as shown.  If you're also planning to perform the composite A/V mod, remove the RF modulator while you have the desoldering iron warmed up.
