@@ -81,7 +81,7 @@ Solder a 2K2 resistor in-line with the audio lead and insulate with heat shrink 
 
 Build the transistor amplifier onto perfboard as shown. 
 
-![AV_Amplifier.png](images/t_V_Amplifier.png?raw=true "AV_Amplifier.png")
+![AV_Amplifier.png](images/t_AV_Amplifier.png?raw=true "AV_Amplifier.png")
 
 ## Step 8: Attach Input and Output Leads 
 
