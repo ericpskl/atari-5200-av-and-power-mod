@@ -22,7 +22,7 @@ Remove the coax cable, the 4700 uF capacitor, and the inductor as shown.  If you
 
 ## Step 3:
 
-Attach the replacement 470 uF electrolytic capacitor to the same spot where the 4700 uF was connected.  Solder power leads in parallel with the capacitor as shown.  Make sure the power leads are long enough to comfortably reach out of the back of the case through the expansion port door.
+Attach the replacement 470 uF electrolytic capacitor to the same location where the 4700 uF was connected.  Using the extra pads on the motherboard, solder power leads in parallel with the capacitor as shown.  Make sure the power leads are long enough to comfortably reach out of the back of the case through the expansion port door.
 
 ![Connect-Power.png](images/t_Connect-Power.png?raw=true "Connect-Power.png")
 
@@ -55,16 +55,16 @@ Connect a wire for +5V as shown.  Leave enough length so you can comfortably rou
 
 ### 6.2 Ground
 
-Connect a wire for Ground as shown (the black cable to the lower right of the label).  Leave enough length so you can comfortably route the wire to the former location of the RF modulator.  
+Connect a wire for ground as shown (the black cable to the lower right of the label).  Leave enough length so you can comfortably route the wire to the former location of the RF modulator.  
 ![AV-Ground.png](images/t_AV-Ground.png?raw=true "AV-Ground.png")
 
 ### 6.3 Video
 
-Connect a wire for the Video input to the left of inductor L12 as shown.  Leave enough length so you can comfortably route the wire to the former location of the RF modulator.  
+Connect a wire for video to the left of inductor L12 as shown.  Leave enough length so you can comfortably route the wire to the former location of the RF modulator.  
 ![AV-Video.png](images/t_AV-Video.png?raw=true "AV-Video.png")
 
 ### 6.4 Audio:
-Connect a wire for the Audio input to the top of resistor R50 as shown. Leave enough length so you can comfortably route the wire to the former location of the RF modulator.  
+Connect a wire for audio to the top of resistor R50 as shown. Leave enough length so you can comfortably route the wire to the former location of the RF modulator.  
 ![AV-Audio.png](images/t_AV-Audio.png?raw=true "AV-Audio.png")
 
 This lead will run under the RF shield after reassembly, so protect it with a piece of heat shrink as shown. 
@@ -99,7 +99,7 @@ Attach the chassis mount barrel jack to the expansion port cover plate and solde
 
 ## Step 10: Connect the jacks and install the cover plate 
 
-Install the chassis mount RCA jacks in the expansion port cover, and then solder the audio, video, and ground leads to the jacks. Remove and store the original expansion port cover, then snap the new expansion port cover into the opening.  Depending on the tolerances of your 3D printer, you may want to secure the cover in place with a few squirts of hot glue to prevent it snapping out of place when cables are inserted and removed into the AV and power jacks.
+Run the power input wires (+5V and ground), the video out and ground from the amplifier board, and the audio out from the motherboard through the expansion port and out the back of the console.  Attach the chassis mount RCA jacks to the expansion port cover, and then solder the audio, video, and ground leads to the jacks. Snap the new expansion port cover into the opening.  Depending on the tolerances of your 3D printer, you may want to secure the cover in place with a few squirts of hot glue to prevent it snapping out of place due to the forces applied when cables are inserted and removed into the AV and power jacks.
 
 ![Plate_Wired.jpg](images/t_Plate_Wired.jpg?raw=true "Plate_Wired.jpg")
 ![](images/t_Expansion-Port-Cover-01.png?raw=true)
