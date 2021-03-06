@@ -57,7 +57,7 @@ Connect a wire for +5V as shown.  Leave enough length so you can comfortably rou
 
 ### 6.2 Ground
 
-Connect a wire for Ground as shown.  Leave enough length so you can comfortably route the wire to the former location of the RF modulator.  
+Connect a wire for Ground as shown (the black cable to the lower right of the label).  Leave enough length so you can comfortably route the wire to the former location of the RF modulator.  
 ![AV-Ground.png](images/t_AV-Ground.png?raw=true "AV-Ground.png")
 
 ### 6.3 Video
